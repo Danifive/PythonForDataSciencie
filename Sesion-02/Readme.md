@@ -24,7 +24,7 @@ Vayamos a un primer ejemplo para entender su funcionamiento.
 > Lo más importante de esta sección es que los alumnos entiendan bien el `operador de indexación`, ya que es muy similar al que se usa en `numpy` y en `pandas`.
 
 [**`Ejemplo 1`**](Ejemplo-01/listas.ipynb)
-[**`Reto 1`**](Reto-01/listas.ipynb)
+[**`Reto 1`**]([Reto-01/listas.ipynb](https://github.com/Danifive/PythonForDataSciencie/tree/main/Sesion-02/Reto-02))
 
 ---
 
